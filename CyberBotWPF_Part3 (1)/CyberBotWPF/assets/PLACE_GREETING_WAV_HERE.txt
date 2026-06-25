@@ -1,0 +1,1 @@
+Place your greeting.wav file here (referenced by VoiceService.cs). Not included in this package.
